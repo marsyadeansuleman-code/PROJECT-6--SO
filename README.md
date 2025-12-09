@@ -264,13 +264,13 @@ pause
 goto MENU
 ```
 # HASIL OUTPUT SCRIPT[recovery.bat]
-Foto 1
+# Foto 1
 [https://drive.google.com/file/d/13GZvbvkEhqoQMCfo6xPw_0BM197YflRb/view?usp=sharing]
-Foto 2
+# Foto 2
 [https://drive.google.com/file/d/1bcCu-8FNbHvxi3ErfEa89ssRYE37LZ5M/view?usp=sharing]
-Foto 3
+# Foto 3
 [https://drive.google.com/file/d/13h6ZIXsrijazEaecyuZ-aRa2sGiyloBR/view?usp=sharing]
-Foto 4
+# Foto 4
 [https://drive.google.com/file/d/1RYfUkEgWN8UmvDYJC_f5fULvMvv5SmQO/view?usp=drive_link]
-Foto 5
+# Foto 5
 [https://drive.google.com/file/d/1EpeQ6xvUDlPFHy8iQ_1oAySrZBopmKSF/view?usp=drive_link]
